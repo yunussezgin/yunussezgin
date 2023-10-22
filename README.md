@@ -1,4 +1,4 @@
-**Hi there 👋, I'm Yunus Sezgin!**
+### **Hi there 👋, I'm Yunus Sezgin!**
 
 - 💻 I'm a **Software Engineer** specializing in **Java**, **Spring Boot**, **Microservices**, **Golang**, **AWS**, **Kubernetes**, **Terraform**, **Relational Databases**, **NoSQL Databases**, **Clean Code** and **System Design**.
 - 🏢 Currently, I'm working at [Axual B.V., Amsterdam](https://axual.com/).
